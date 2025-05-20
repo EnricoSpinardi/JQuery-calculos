@@ -1,8 +1,6 @@
 # JQuery-calculos
 Cálculo de Salário
 
-JQuery - cálculos
-
 Instruções
 em uma nova página, com nova ligação no navbar...Cálculo de Salário (pode usar o mesmo projeto de exemplo da aula)
 
