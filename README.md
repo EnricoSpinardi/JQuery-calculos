@@ -20,5 +20,3 @@ INSS
 Vale Transporte
 Salário Líquido
 
-enviar vídeo do funciomanento
-link do GITHUB e Vercel
